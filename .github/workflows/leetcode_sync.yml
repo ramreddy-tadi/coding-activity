@@ -1,0 +1,24 @@
+name: Sync Leetcode
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Configure Git Author
+        run: |
+          git config --global user.name "ramreddy-tadi"
+          git config --global user.email "tadiramreddy.7@gmail.com"
+
+      - name: Sync Leetcode Solutions
+        uses: joshcai/leetcode-sync@v1.5
+        with:
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: leetcode-problems
