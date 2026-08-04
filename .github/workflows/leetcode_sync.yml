@@ -1,24 +1,33 @@
 name: Sync Leetcode
+
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 8 * * *"
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
 
-      - name: Configure Git Author
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
+
+      - name: Configure Git
         run: |
           git config --global user.name "ramreddy-tadi"
           git config --global user.email "tadiramreddy.7@gmail.com"
 
-      - name: Sync Leetcode Solutions
+      - name: Sync LeetCode
         uses: joshcai/leetcode-sync@v1.5
         with:
-          github-token: ${{ github.token }}
+          github-token: ${{ secrets.GH_PAT }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: leetcode-problems
