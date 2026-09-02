@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ramreddy-tadi/coding-activity/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ramreddy-tadi/coding-activity/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/ramreddy-tadi/coding-activity/tree/main/0217-contains-duplicate/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ramreddy-tadi/coding-activity/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ramreddy-tadi/coding-activity/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -38,6 +40,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ramreddy-tadi/coding-activity/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/ramreddy-tadi/coding-activity/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/ramreddy-tadi/coding-activity/tree/main/0392-is-subsequence/) | Easy |
 ## Divide and Conquer
