@@ -32,11 +32,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ramreddy-tadi/coding-activity/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/ramreddy-tadi/coding-activity/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/ramreddy-tadi/coding-activity/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ramreddy-tadi/coding-activity/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/ramreddy-tadi/coding-activity/tree/main/0392-is-subsequence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
