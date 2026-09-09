@@ -10,6 +10,7 @@
 | [0198-house-robber](https://github.com/ramreddy-tadi/coding-activity/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ramreddy-tadi/coding-activity/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ramreddy-tadi/coding-activity/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ramreddy-tadi/coding-activity/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/ramreddy-tadi/coding-activity/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ramreddy-tadi/coding-activity/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
@@ -53,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ramreddy-tadi/coding-activity/tree/main/0217-contains-duplicate/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ramreddy-tadi/coding-activity/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
