@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/ramreddy-tadi/coding-activity/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramreddy-tadi/coding-activity/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/ramreddy-tadi/coding-activity/tree/main/0217-contains-duplicate/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/ramreddy-tadi/coding-activity/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramreddy-tadi/coding-activity/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/ramreddy-tadi/coding-activity/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/ramreddy-tadi/coding-activity/tree/main/0392-is-subsequence/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/ramreddy-tadi/coding-activity/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
